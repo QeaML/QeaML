@@ -2,7 +2,7 @@
 
 My name is qeaml *(pronounced kee-mil)* and I do coding and programming and developing.
 
-My favorite language is Python, but I vibe with Golang more.
+My favorite language is Python, but I vibe with Go more.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QeaML&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
