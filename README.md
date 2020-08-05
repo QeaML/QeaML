@@ -1,16 +1,20 @@
-### Hi there 👋
+### Yo dude, whasap
 
-<!--
-**QeaML/QeaML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is qeaml *(pronounced kee-mil)* and I do coding and programming and developing.
 
-Here are some ideas to get you started:
+My favorite language is Python, but I vibe with Golang more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QeaML&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+The programming project I work on the most at this moment in time is [ximfect](https://github.com/QeaML/ximfect). I'm not really planning to make anything big or revolutionary, I just like the satisfaction of running that build command and a nice, usable execudable popping out. That really gets me going!
+
+Here's a short list of things I do:
+
+* Write code (duh)
+* Make music
+* Mess around with Blender (3D)
+* Play too much Minecraft
+* Speak English better than my native language (poland be like)
+* Record myself saying dumb stuff
+
+And some other stuff sometimes.
