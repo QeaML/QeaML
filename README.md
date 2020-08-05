@@ -18,3 +18,13 @@ Here's a short list of things I do:
 * Record myself saying dumb stuff
 
 And some other stuff sometimes.
+
+### Where to find me
+* [Twitter](https://twitter.com/qeaml_)
+* [Discord](https://discord.gg/Rq9u5He)
+* [Twitch](https://twitch.tv/qeaml)
+
+**These branch off from here:**
+
+* [YouTube](https://youtube.com/channel/UCPZ46lKEns2OT0oDUMsTeGA)
+* [SoundCloud](https://soundcloud.com/qeaml)
