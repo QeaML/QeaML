@@ -4,7 +4,7 @@ My name is qeaml *(pronounced kee-mil)* and I do coding and programming and deve
 
 My favorite language is Python, but I vibe with Go more.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QeaML&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QeaML&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 The programming project I work on the most at this moment in time is [ximfect](https://github.com/QeaML/ximfect). I'm not really planning to make anything big or revolutionary, I just like the satisfaction of running that build command and a nice, usable execudable popping out. That really gets me going!
 
