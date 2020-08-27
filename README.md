@@ -1,30 +1,8 @@
-### Yo dude, whasap
-
-My name is qeaml *(pronounced kee-mil)* and I do coding and programming and developing.
-
-My favorite language is Python, but I vibe with Go more.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qeamlgit&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# Hello
 
 The programming project I work on the most at this moment in time is [ximfect](https://github.com/QeaML/ximfect). I'm not really planning to make anything big or revolutionary, I just like the satisfaction of running that build command and a nice, usable execudable popping out. That really gets me going!
 
-Here's a short list of things I do:
-
-* Write code (duh)
-* Make music
-* Mess around with Blender (3D)
-* Play too much Minecraft
-* Speak English better than my native language (poland be like)
-* Record myself saying dumb stuff
-
-And some other stuff sometimes.
-
-### Where to find me
-* [Twitter](https://twitter.com/qeaml_)
-* [Discord](https://discord.gg/Rq9u5He)
-* [Twitch](https://twitch.tv/qeaml)
-
-**These branch off from here:**
-
-* [YouTube](https://youtube.com/channel/UCPZ46lKEns2OT0oDUMsTeGA)
-* [SoundCloud](https://soundcloud.com/qeaml)
+[<img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/qeaml_)
+[<img src="https://img.shields.io/badge/Twitch%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>](https://twitch.tv/qeaml)
+[<img src="https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>](https://youtube.com/channel/UCPZ46lKEns2OT0oDUMsTeGA)
+[<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](https://discord.gg/Rq9u5He)
