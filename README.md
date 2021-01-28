@@ -1,6 +1,4 @@
-# Hello
-
-The programming project I work on the most at this moment in time is [ximfect](https://github.com/QeaML/ximfect). I'm not really planning to make anything big or revolutionary, I just like the satisfaction of running that build command and a nice, usable execudable popping out. That really gets me going!
+# [hi](https://linktr.ee/qeaml)
 
 [<img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/qeaml_)
 [<img src="https://img.shields.io/badge/Twitch%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>](https://twitch.tv/qeaml)
